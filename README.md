@@ -22,5 +22,8 @@ Convert your free tekno music to mp4 video, upload it to YouTube and retrieve th
 Replace with your own PATH (example: /Users/JohnDoe)
 
 6. Upload the generated video on YouTube
+7. You can now share the YouTube video URL to your friends!
 
-[Listen my track on YouTube ^_^](https://www.youtube.com/watch?v=UI8Too6W-Gk)
+**Example video**
+
+- [Listen my track on YouTube ^_^](https://www.youtube.com/watch?v=UI8Too6W-Gk)
